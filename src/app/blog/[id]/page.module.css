@@ -1,0 +1,39 @@
+.container{
+
+}
+
+.top{
+    display: flex;
+    gap: 2rem;
+    margin-bottom: 2rem;
+
+}
+
+.content{
+    position: relative;
+    
+    flex:1;
+}
+
+.imgContainer{
+    flex: 1;
+    position: relative;
+    height: 15rem;
+}
+
+.author{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    margin-top: 1rem;
+}
+.avatarContainer{
+    position: relative;
+    width: 2rem;
+    height: 2rem;
+}
+.avatar{
+    object-fit: cover;
+    border-radius: 50%;
+
+}

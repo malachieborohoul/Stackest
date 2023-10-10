@@ -1,0 +1,36 @@
+.container{
+    
+}
+
+.item{
+    display: flex;
+    gap: 3rem;
+    align-items: center;
+    margin-bottom: 3rem;
+}
+
+.imgContainer{
+    flex: 2;
+    position: relative;
+    height: 15rem;
+}
+
+.img{
+    object-fit: cover;
+}
+
+.content{
+    flex: 3;
+    
+    /* background-color: aquamarine; */
+
+}
+
+.title{
+
+}
+
+.desc{
+
+}
+
