@@ -1,3 +1,6 @@
+:root{
+  --color-primary: #1A3A78
+}
 * {
   box-sizing: border-box;
   padding: 0;
